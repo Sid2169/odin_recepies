@@ -36,3 +36,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **butter naan page** — Document any manual steps that cannot be automated.
 - **recipe cards** — Confirm the expected behavior on a clean checkout.
 - **print layout** — Check the required environment values before deploying.
+- **page-specific styles** — Note any external service limits or required keys.
