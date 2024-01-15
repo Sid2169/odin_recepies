@@ -34,3 +34,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 ## Additional Notes
 
 - **butter naan page** — Document any manual steps that cannot be automated.
+- **recipe cards** — Confirm the expected behavior on a clean checkout.
