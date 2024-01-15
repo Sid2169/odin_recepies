@@ -1,1 +1,36 @@
-# odin_recepies
+# Odin Recipes
+
+A static recipe website built as part of The Odin Project foundations course.
+
+## Pages
+
+- `index.html` — recipe index with links to each dish.
+- `recipes/biryani.html` — chicken biryani recipe.
+- `recipes/mutton.html` — hundi mutton recipe.
+- `recipes/naan.html` — butter naan recipe.
+- `index.css`, `recipes/recipe.css`, `test.css` — shared and page-specific styles.
+
+## Features
+
+- Recipe cards with images linking to individual pages.
+- Semantic page structure with headings, lists, and links.
+- Responsive image sizing and simple layouts.
+- Shared styling for the index and recipe pages.
+
+## Running locally
+
+No build step is required. Open `index.html` in a browser, or serve the directory:
+
+```sh
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+## Notes
+
+Images live in `images/`. Some filenames contain spaces, so keep the existing paths intact when renaming files.
+
+## Additional Notes
+
+- **butter naan page** — Document any manual steps that cannot be automated.
