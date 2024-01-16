@@ -37,3 +37,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **recipe cards** — Confirm the expected behavior on a clean checkout.
 - **print layout** — Check the required environment values before deploying.
 - **page-specific styles** — Note any external service limits or required keys.
+- **image paths** — Verify the change in both development and production builds.
