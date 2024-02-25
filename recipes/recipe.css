@@ -1,0 +1,43 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+*{
+    background-color: beige;
+    font-style: oblique;
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    font-style: oblique;
+}
+
+h1 a {
+    text-decoration: none;
+    color: rebeccapurple;
+    font: oblique;
+}
+
+h2 {
+    color: rgb(207, 185, 58);
+    font-weight: 700;
+    font-size:50px;
+}
+p img {
+width: 50%;
+height: auto;
+}
+
+p {
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+

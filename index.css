@@ -1,9 +1,30 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
 *{
     background-color: rgb(255, 230, 175);
     font-weight: 700;
-    color: aqua;
 }
+
 h1 {
-    color: rgb(0, 237, 245);
+    text-align: left;
+    font-style: oblique;
+}
+
+h1 a {
+    text-decoration: none;
+    color: rebeccapurple;
+    font: oblique;
+}
+h2 {
     
+    
+  }
+
+  div li a img {
+    width: 800px;
+    height: auto;
   }
