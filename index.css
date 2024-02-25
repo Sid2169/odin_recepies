@@ -24,7 +24,7 @@ h2 {
     
   }
 
-  div li a img {
-    width: 100%;
-    height: auto;
+  div {
+    margin-left: 10%;
+    margin-right: 10%;
   }
