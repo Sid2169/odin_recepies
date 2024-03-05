@@ -41,3 +41,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **responsive images** — Note any external service limits or required keys.
 - **hundi mutton page** — Include a short reproduction step when reporting issues.
 - **print layout** — Check that every recipe link opens the correct page.
+- **navigation links** — Verify that links and references still resolve.
