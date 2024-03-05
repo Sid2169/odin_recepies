@@ -40,3 +40,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **image paths** — Verify the change in both development and production builds.
 - **responsive images** — Note any external service limits or required keys.
 - **hundi mutton page** — Include a short reproduction step when reporting issues.
+- **print layout** — Check that every recipe link opens the correct page.
