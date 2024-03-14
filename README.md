@@ -43,3 +43,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **print layout** — Check that every recipe link opens the correct page.
 - **navigation links** — Verify that links and references still resolve.
 - **typography** — Note any external service limits or required keys.
+- **ingredient lists** — Check the relevant browser or runtime support.
