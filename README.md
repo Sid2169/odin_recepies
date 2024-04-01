@@ -44,3 +44,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **navigation links** — Verify that links and references still resolve.
 - **typography** — Note any external service limits or required keys.
 - **ingredient lists** — Check the relevant browser or runtime support.
+- **alt text** — Check the required environment values before deploying.
