@@ -45,3 +45,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **typography** — Note any external service limits or required keys.
 - **ingredient lists** — Check the relevant browser or runtime support.
 - **alt text** — Check the required environment values before deploying.
+- **typography** — Verify the change in both development and production builds.
