@@ -50,3 +50,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **hundi mutton page** — Add a screenshot or example when it clarifies the workflow.
 - **hundi mutton page** — Check the required environment values before deploying.
 - **print layout** — Keep commands copy-pasteable for new contributors.
+- **alt text** — Note any external service limits or required keys.
