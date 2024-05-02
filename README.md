@@ -48,3 +48,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **typography** — Verify the change in both development and production builds.
 - **recipe index** — Update the documentation if the visible behavior changes.
 - **hundi mutton page** — Add a screenshot or example when it clarifies the workflow.
+- **hundi mutton page** — Check the required environment values before deploying.
