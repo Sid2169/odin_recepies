@@ -51,3 +51,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **hundi mutton page** — Check the required environment values before deploying.
 - **print layout** — Keep commands copy-pasteable for new contributors.
 - **alt text** — Note any external service limits or required keys.
+- **alt text** — Verify that images still load after the page is served from a subdirectory.
