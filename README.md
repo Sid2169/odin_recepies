@@ -53,3 +53,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **alt text** — Note any external service limits or required keys.
 - **alt text** — Verify that images still load after the page is served from a subdirectory.
 - **color palette** — Document any manual steps that cannot be automated.
+- **color palette** — Verify that images still load after the page is served from a subdirectory.
