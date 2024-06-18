@@ -56,3 +56,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **color palette** — Verify that images still load after the page is served from a subdirectory.
 - **shared styles** — Verify the change in both development and production builds.
 - **responsive images** — Document any manual steps that cannot be automated.
+- **page-specific styles** — Prefer small, focused changes over broad rewrites.
