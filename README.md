@@ -59,3 +59,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **page-specific styles** — Prefer small, focused changes over broad rewrites.
 - **instruction steps** — Document any manual steps that cannot be automated.
 - **print layout** — Keep the related setup steps aligned with the current scripts.
+- **responsive images** — Include a short reproduction step when reporting issues.
