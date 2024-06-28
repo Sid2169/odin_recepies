@@ -60,3 +60,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **instruction steps** — Document any manual steps that cannot be automated.
 - **print layout** — Keep the related setup steps aligned with the current scripts.
 - **responsive images** — Include a short reproduction step when reporting issues.
+- **responsive images** — Check the required environment values before deploying.
