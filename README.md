@@ -62,3 +62,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **responsive images** — Include a short reproduction step when reporting issues.
 - **responsive images** — Check the required environment values before deploying.
 - **serving suggestions** — Prefer small, focused changes over broad rewrites.
+- **instruction steps** — Check the required environment values before deploying.
