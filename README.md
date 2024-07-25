@@ -64,3 +64,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **serving suggestions** — Prefer small, focused changes over broad rewrites.
 - **instruction steps** — Check the required environment values before deploying.
 - **shared styles** — Update the documentation if the visible behavior changes.
+- **image paths** — Check the required environment values before deploying.
