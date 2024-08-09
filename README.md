@@ -67,3 +67,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **image paths** — Check the required environment values before deploying.
 - **chicken biryani page** — Include a short reproduction step when reporting issues.
 - **shared styles** — Check the relevant browser or runtime support.
+- **alt text** — Confirm the expected behavior on a clean checkout.
