@@ -69,3 +69,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **shared styles** — Check the relevant browser or runtime support.
 - **alt text** — Confirm the expected behavior on a clean checkout.
 - **recipe index** — Verify that images still load after the page is served from a subdirectory.
+- **typography** — Include a short reproduction step when reporting issues.
