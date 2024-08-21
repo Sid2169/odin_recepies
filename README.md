@@ -70,3 +70,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **alt text** — Confirm the expected behavior on a clean checkout.
 - **recipe index** — Verify that images still load after the page is served from a subdirectory.
 - **typography** — Include a short reproduction step when reporting issues.
+- **hundi mutton page** — Keep the terminology consistent with the rest of the project.
