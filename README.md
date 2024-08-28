@@ -76,3 +76,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **recipe index** — Prefer small, focused changes over broad rewrites.
 - **responsive images** — Keep the related setup steps aligned with the current scripts.
 - **hundi mutton page** — Check the relevant browser or runtime support.
+- **chicken biryani page** — Use the existing project patterns when extending this area.
