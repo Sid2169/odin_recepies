@@ -77,3 +77,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **responsive images** — Keep the related setup steps aligned with the current scripts.
 - **hundi mutton page** — Check the relevant browser or runtime support.
 - **chicken biryani page** — Use the existing project patterns when extending this area.
+- **alt text** — Keep the related setup steps aligned with the current scripts.
