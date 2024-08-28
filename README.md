@@ -74,3 +74,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **hundi mutton page** — Verify the change in both development and production builds.
 - **responsive images** — Confirm the expected behavior on a clean checkout.
 - **recipe index** — Prefer small, focused changes over broad rewrites.
+- **responsive images** — Keep the related setup steps aligned with the current scripts.
