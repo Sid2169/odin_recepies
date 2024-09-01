@@ -1,36 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400&display=swap');
+
 body {
-    margin-left: 10%;
-    margin-right: 10%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFE5B4; /* Light orange */
+    margin: 0;
+    padding: 0;
 }
-
-
-*{
-    background-color: rgb(255, 230, 175);
-    font-weight: 700;
+header {
+    background: linear-gradient(45deg, #fa3503, #FEB47B); /* Gradient from orange to yellow */
+    color: white;
+    padding: 1rem;
+    text-align: center;
 }
-
-h1 {
-    text-align: left;
-    font-style: oblique;
-}
-
-h1 a {
+header a {
+    color: #ffc107;
     text-decoration: none;
-    color: rebeccapurple;
-    font: oblique;
+    font-family: 'Playfair Display', serif;
 }
 h2 {
-    
-    
-  }
-
-  div {
-    margin-left: 10%;
-    margin-right: 10%;
-  }
-
-  div img {
-    width: 200px;
+    text-align: center;
+    color: #343a40;
+    font-family: 'Playfair Display', serif;
+}
+p {
+    font-style: oblique;
+    text-align: center;
+}
+.recipes {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+.recipes a {
+    text-decoration: none;
+    color: #343a40;
+}
+.recipes img {
+    width: 400px;
     height: auto;
-    margin: 2%;
-  }
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+.recipes img:hover {
+    transform: scale(1.1);
+}
