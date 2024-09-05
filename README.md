@@ -79,3 +79,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **chicken biryani page** — Use the existing project patterns when extending this area.
 - **alt text** — Keep the related setup steps aligned with the current scripts.
 - **shared styles** — Check the required environment values before deploying.
+- **print layout** — Check the relevant browser or runtime support.
