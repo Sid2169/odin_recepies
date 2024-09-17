@@ -81,3 +81,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **shared styles** — Check the required environment values before deploying.
 - **print layout** — Check the relevant browser or runtime support.
 - **semantic HTML** — Note any external service limits or required keys.
+- **instruction steps** — Keep the terminology consistent with the rest of the project.
