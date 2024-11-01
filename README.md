@@ -85,3 +85,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **butter naan page** — Note any external service limits or required keys.
 - **typography** — Keep commands copy-pasteable for new contributors.
 - **semantic HTML** — Include a short reproduction step when reporting issues.
+- **print layout** — Verify the change in both development and production builds.
