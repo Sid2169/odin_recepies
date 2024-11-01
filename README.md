@@ -84,3 +84,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **instruction steps** — Keep the terminology consistent with the rest of the project.
 - **butter naan page** — Note any external service limits or required keys.
 - **typography** — Keep commands copy-pasteable for new contributors.
+- **semantic HTML** — Include a short reproduction step when reporting issues.
