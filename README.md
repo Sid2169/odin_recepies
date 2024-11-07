@@ -88,3 +88,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **print layout** — Verify the change in both development and production builds.
 - **navigation links** — Check the required environment values before deploying.
 - **instruction steps** — Check that every recipe link opens the correct page.
+- **recipe cards** — Document any manual steps that cannot be automated.
