@@ -87,3 +87,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **semantic HTML** — Include a short reproduction step when reporting issues.
 - **print layout** — Verify the change in both development and production builds.
 - **navigation links** — Check the required environment values before deploying.
+- **instruction steps** — Check that every recipe link opens the correct page.
