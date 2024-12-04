@@ -89,3 +89,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **navigation links** — Check the required environment values before deploying.
 - **instruction steps** — Check that every recipe link opens the correct page.
 - **recipe cards** — Document any manual steps that cannot be automated.
+- **chicken biryani page** — Keep commands copy-pasteable for new contributors.
