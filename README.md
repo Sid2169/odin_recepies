@@ -90,3 +90,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **instruction steps** — Check that every recipe link opens the correct page.
 - **recipe cards** — Document any manual steps that cannot be automated.
 - **chicken biryani page** — Keep commands copy-pasteable for new contributors.
+- **recipe cards** — Prefer small, focused changes over broad rewrites.
