@@ -95,3 +95,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **hundi mutton page** — Keep commands copy-pasteable for new contributors.
 - **typography** — Add a screenshot or example when it clarifies the workflow.
 - **recipe cards** — Update the documentation if the visible behavior changes.
+- **typography** — Use the existing project patterns when extending this area.
