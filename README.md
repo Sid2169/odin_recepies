@@ -96,3 +96,4 @@ Images live in `images/`. Some filenames contain spaces, so keep the existing pa
 - **typography** — Add a screenshot or example when it clarifies the workflow.
 - **recipe cards** — Update the documentation if the visible behavior changes.
 - **typography** — Use the existing project patterns when extending this area.
+- **image paths** — Confirm the expected behavior on a clean checkout.
